@@ -1,0 +1,9 @@
+There is currently 7Astronauts onboardSergey Ryzhikov - on board
+Kate Rubins - on board
+Sergey Kud-Sverchkov - on board
+Mike Hopkins - on board
+Victor Glover - on board
+Shannon Walker - on board
+Soichi Noguchi - on board
+
+ Your current lat/long is: [41.2619, -95.8608]
